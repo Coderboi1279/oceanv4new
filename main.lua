@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] -- This script was protected using the MoonVeil Obfuscator v1.2.1 [https://moonveil.cc]
+ -- This script was protected using the MoonVeil Obfuscator v1.2.1 [https://moonveil.cc]
 
 local Kl,pi,ki,hf=getmetatable,table.unpack,type,pairs;
 local Wh,bb,qk,td,Mb,Bl,a,gl,ih,Al,Pf
